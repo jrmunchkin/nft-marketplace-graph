@@ -52,6 +52,6 @@ graph deploy --studio nft-marketplace -l VERSION_NUMBER_HERE
 
 8. View your UI
 
-Back in your [hardhat nft marketplace project](https://github.com/jrchain/nft-marketplace), try to mint and list some NFTs
+Back in your [hardhat nft marketplace project](https://github.com/jrmunchkin/nft-marketplace), try to mint and list some NFTs
 
 Then check the datas into your subgraph interface.
